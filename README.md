@@ -101,7 +101,7 @@ OpenCV / Pillow for image preprocessing
 
 🚀 How to Run
 # 1. Clone this repository
-git clone https://github.com/<your-username>/ChestDiseaseDetection-CNN.git
+git clone https://github.com/FSweety/ChestDiseaseDetection-CNN.git
 cd ChestDiseaseDetection-CNN
 
 # 2. Install dependencies
